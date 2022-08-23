@@ -26,7 +26,7 @@ function search() {
 }
 
 // طبّق الخطوة 8 و 9 أسفل هذا الكومنت
-let randomIndex = Math.floor( Math.random()) * grades.length
+let randomIndex = Math.floor( Math.random() * grades.length )
 // طبّق الخطوة 10 أسفل هذا الكومنت
 
 
