@@ -16,7 +16,6 @@ grades.forEach(element => {
   all_grades_div.innerHTML += `<div>${element}</div>`;
 });
 
-
 function search() {
   let inputValue = document.getElementById("input").value;
   
